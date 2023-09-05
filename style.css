@@ -1,0 +1,28 @@
+body {
+  background-color: #fff;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #333;
+  font-size: 2em;
+}
+
+select {
+  width: 200px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
